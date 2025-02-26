@@ -1,5 +1,6 @@
-### Estas instrucciones para un sistema operativo windows
+### Estas instrucciones son para un sistema operativo windows
 ### Instrucciones:
+## Backend
 1. Descargar en el local la herramienta Zincsearch (zincsearch.exe).
 2. Abrir la ventana de comandos y situarse en la ruta local donde se encuentre el zincsearch.exe, luego copiar estas 
 instrucciones en la ventana de comandos
